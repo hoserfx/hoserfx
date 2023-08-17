@@ -6,14 +6,16 @@ Hi 👋 My name is hoser
 
 🦊 Fox is trying to create content
 
-* 🖥️  See my portfolio at [My socials](http://solo.to/hoser)
-* ✉️  You can contact me at [hoserfx@gmail.com](mailto:hoserfx@gmail.com)
+* 🖥️  See my portfolio at [My socials](http://solo.to/hoser)
+* ✉️  You can contact me at [hoserfx@gmail.com](mailto:hoserfx@gmail.com)
 
 ### Skills
+
 
 <p align="left">
 ICON ICON ICON
 </p>
+
 
 ### Socials
 
