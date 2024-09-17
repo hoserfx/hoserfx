@@ -1,4 +1,4 @@
-# [💫About Me :]([https://solo.to/hoser](https://hoserfx.carrd.co/))
+# [💫About Me :](https://hoserfx.carrd.co/)
 🦊 Fox is trying to create content
 
 # 🌐Socials
